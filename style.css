@@ -1,0 +1,35 @@
+#file_url{
+padding: 15px 10px;
+width: 70%;
+background: #f7f7f7;
+border: 3px solid #eee;
+}
+
+input.button-primary.submit {
+    font-family: sans-serif;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 33px;
+    font-weight: bold;
+}
+#srt_form p {
+    margin: 15px 0 10px 0;
+}
+
+#loader {
+    margin-top: 15px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.warn_msg {
+    background: #FFFFE0;
+    border: 1px solid #E6DB55;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 5px 15px 5px 0;
+    width: auto;
+}
+
